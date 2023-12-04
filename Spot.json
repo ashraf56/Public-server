@@ -1,0 +1,46 @@
+
+[
+  {
+    "id": 1,
+    "name": "Eiffel Tower",
+    "location": "Paris, France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+    "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Constructed from 1887 to 1889 as the entrance to the 1889 World's Fair, it was initially criticised by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognisable structures in the world."
+  },
+  {
+    "id": 2,
+    "name": "Taj Mahal",
+    "location": "Agra, India",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Taj_Mahal_in_March_2004.jpg",
+    "description": "The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall."
+  },
+  {
+    "id": 3,
+    "name": "Great Wall of China",
+    "location": "China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "description": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined together by Qin Shi Huang (220–206 BC), the first emperor of China. Little of the Qin wall remains. Later on, many successive dynasties have built and maintained multiple stretches of border walls. The most well-known sections of the wall were built by the Ming dynasty (1368–1644)."
+  },
+  {
+    "id": 4,
+    "name": "Grand Canyon",
+    "location": "Arizona, USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/USA_09847_Grand_Canyon_Luca_Galuzzi_2007.jpg",
+    "description": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters). The canyon and adjacent rim are contained within Grand Canyon National Park, the Kaibab National Forest, Grand Canyon-Parashant National Monument, the Hualapai Indian Reservation, the Havasupai Indian Reservation and the Navajo Nation."
+  },
+  {
+    "id": 5,
+    "name": "Pyramids of Giza",
+    "location": "Giza, Egypt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+    "description": "The Pyramids of Giza are ancient pyramids located in the Giza Pyramid Complex, on the outskirts of Cairo, Egypt. There are three main pyramids: the Great Pyramid of Giza (also known as the Pyramid of Khufu or Cheops), the Pyramid of Khafre (also known as Chephren), and the Pyramid of Menkaure (also known as Mykerinos). Along with these major monuments are a number of smaller satellite edifices, known as 'queens' pyramids', causeways and valley pyramids. The Great Pyramid is one of the Seven Wonders of the Ancient World and is considered to be one of humanity's greatest architectural achievements."
+  },
+
+  {
+      "id": 6,
+      "name": "Machu Picchu",
+      "location": "Cusco Region, Peru",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Machu_Picchu%2C_Peru.jpg",
+      "description": "Machu Picchu is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate. Most archaeologists believe that Machu Picchu was constructed as an estate for the Inca emperor Pachacuti (1438–1472). Often mistakenly referred to as the 'Lost City of the Incas', it is the most familiar icon of Inca civilization."
+    }
+]
